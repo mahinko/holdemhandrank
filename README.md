@@ -1,7 +1,4 @@
-holdemhandrank - Texas Holdem hand rank evaluator for Go
-===========================
-
-# holdemhandrank
+# holdemhandrank - Texas Holdem hand rank evaluator for Go
 
 Package `holdemhandrank` is a [Go](http://golang.org) client library providing ranking of 7 cards hand.
 
